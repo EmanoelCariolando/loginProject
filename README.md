@@ -19,11 +19,13 @@ Persistência em banco de dados
 Ideal para estudos de integração entre frontend e backend usando Java.
 
 🚀 Tecnologias Utilizadas
+<br/>
 🔧 Backend
 Java
 Spring Boot
 Spring Data JPA
 Hibernate
+<br/>
 🎨 Frontend
 HTML5
 CSS3
@@ -35,30 +37,9 @@ MySQL
 ✅ Login com validação
 ✅ Integração com banco de dados
 ✅ Organização em camadas (Controller, Service, Repository)
-🛠️ Como Executar o Projeto
-1. Clone o repositório
-git clone https://github.com/EmanoelCariolando/loginProject.git
-2. Configure o banco de dados
 
-Crie um banco no MySQL:
+<br/>
 
-CREATE DATABASE login_db;
-
-Configure o arquivo application.properties:
-
-spring.datasource.url=jdbc:mysql://localhost:3306/login_db
-spring.datasource.username=seu_usuario
-spring.datasource.password=sua_senha
-
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
-3. Execute o projeto
-
-Você pode rodar pela IDE (IntelliJ ou VS Code) ou pelo terminal:
-
-./mvnw spring-boot:run
-4. Acesse no navegador
-http://localhost:8080
 🧠 Aprendizados
 
 Durante o desenvolvimento deste projeto, foram aplicados conceitos como:

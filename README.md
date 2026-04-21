@@ -2,6 +2,7 @@
 <p align="center"> <img src="assets/login.png" width="700"/> </p>
 
 <div align="center">Projeto full stack desenvolvido com foco em autenticação de usuários, utilizando Spring Boot no backend e HTML/CSS no frontend, com persistência de dados em MySQL. </div>
+<br/>
 <div align="center">
 **Tentando usar meu conhecimento após estudos complexos e sem usar IA como muleta, prefiro continuar aprendendo do que não ter merito nenhum porque a IA fez tudo, não quero ser apenas um copia e cola qualquer.**
 </div>

@@ -48,7 +48,8 @@ MySQL
  - Se não houver uma conta você pode criar uma usando nossa tela de criação de conta. 
  <p align="center"> <img src="assets/create.png" width="700"/> </p>
  <br/>
-  ao clicar em não tenho uma conta vc é redirecionado a tela de criação
+  ao clicar em não tenho uma conta vc é redirecionado a tela de criação da conta.
+  <br/>
 <br/><br/>
 
 🧠 Aprendizados

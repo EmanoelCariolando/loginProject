@@ -5,6 +5,7 @@ Projeto full stack desenvolvido com foco em autenticação de usuários, utiliza
 Tentando usar meu conhecimento após estudos complexos e sem usar IA como muleta, prefiro continuar aprendendo do que não ter merito nenhum porque a IA fez tudo, não quero ser apenas um copia e cola qualquer.
 </div>
 
+<br/>
 
 📌 Sobre o Projeto
 

@@ -50,6 +50,9 @@ MySQL
  <br/>
   ao clicar em não tenho uma conta vc é redirecionado a tela de criação da conta.
   <br/>
+  - após a criação da conta ao fazer login 
+  <p align="center"> <img src="assets/dashboard.png" width="700"/> </p>
+   você entra no sistema de dashboard que no momento está sem funcionalidades por ser um projeto simples. 
 <br/><br/>
 
 🧠 Aprendizados

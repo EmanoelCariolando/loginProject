@@ -30,6 +30,7 @@ Hibernate
 🎨 Frontend
 HTML5
 CSS3
+<br/>
 🗄️ Banco de Dados
 MySQL
 

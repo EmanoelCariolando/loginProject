@@ -1,4 +1,5 @@
 🔐 Sistema de Login e Cadastro de Usuários
+<p align="center"> <img src="assets/login.png" width="700"/> </p>
 
 Projeto full stack desenvolvido com foco em autenticação de usuários, utilizando Spring Boot no backend e HTML/CSS no frontend, com persistência de dados em MySQL. 
 <div align="center">

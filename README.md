@@ -49,7 +49,6 @@ MySQL
  <p align="center"> <img src="assets/create.png" width="700"/> </p>
  <br/>
   ao clicar em não tenho uma conta vc é redirecionado a tela de criação
-
 <br/>
 
 🧠 Aprendizados

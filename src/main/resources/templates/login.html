@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" th:href="@{/css/login.css}">
+    <title>Document</title>
+</head>
+   <body>
+     <div class="all">
+        <div class="leftSide">
+            <img th:src="@{/img/financial_data.png}" alt="">
+        </div>
+        <div class="rightSide">
+          
+         <form method="post" action="file:///C:/Users/Emano/OneDrive/Documents/front-end/PROJECTS/LOGIN/spotify.html" class="validation">
+                <h1>Login</h1>
+
+              <label>
+                 Email: <br/>
+                  <input type="email" name="email" data-rules="required|min=2" />
+              </label>
+
+              <label>
+                Password: <br/>
+                <input type="password" name="password" data-rules="required|min=2" />
+              </label>
+
+              <input class="newb" type="submit" value="login" />
+
+              <div class="footer">
+                Do you have an account? <a href="http://localhost:8080/creat">Create account</a>
+              </div>
+         </form>
+        </div>
+     </div>
+
+     
+
+    <script src="login.js"></script>   
+   </body>
+</html>

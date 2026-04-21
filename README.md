@@ -67,7 +67,7 @@ Criação de APIs REST
 Validação de dados
 📸 Preview
 
-(Adicione aqui prints do sistema se quiser valorizar mais o repositório)
+<br/>
 
 📌 Melhorias Futuras
 🔒 Criptografia de senha (Spring Security / BCrypt)

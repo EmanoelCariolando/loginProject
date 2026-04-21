@@ -1,6 +1,10 @@
 🔐 Sistema de Login e Cadastro de Usuários
 
-Projeto full stack desenvolvido com foco em autenticação de usuários, utilizando Spring Boot no backend e HTML/CSS no frontend, com persistência de dados em MySQL.
+Projeto full stack desenvolvido com foco em autenticação de usuários, utilizando Spring Boot no backend e HTML/CSS no frontend, com persistência de dados em MySQL. 
+<div align="center">
+Tentando usar meu conhecimento após estudos complexos e sem usar IA como muleta, prefiro continuar aprendendo do que não ter merito nenhum porque a IA fez tudo, não quero ser apenas um copia e cola qualquer.
+</div>
+
 
 📌 Sobre o Projeto
 
@@ -24,24 +28,7 @@ HTML5
 CSS3
 🗄️ Banco de Dados
 MySQL
-📁 Estrutura do Projeto
-loginProject/
-│
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/seuusuario/loginProject/
-│   │   │       ├── controller/
-│   │   │       ├── model/
-│   │   │       ├── repository/
-│   │   │       └── service/
-│   │   │
-│   │   └── resources/
-│   │       ├── templates/
-│   │       ├── static/
-│   │       └── application.properties
-│
-└── pom.xml
+
 ⚙️ Funcionalidades
 ✅ Cadastro de usuário
 ✅ Login com validação

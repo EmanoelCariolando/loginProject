@@ -1,7 +1,7 @@
 <h3 align="center">🔐Sistema de Login e Cadastro de Usuários </h3>
 <p align="center"> <img src="assets/login.png" width="700"/> </p>
 
-<div align="center">Projeto full stack desenvolvido com foco em autenticação de usuários, utilizando Spring Boot no backend e HTML/CSS no frontend, com persistência de dados em MySQL. </div>
+<div align="center">Projeto Simples Feito as Alguns Meses Atrás no começo do meus estudos em spring boot, um projeto full stack desenvolvido com foco em autenticação de usuários, utilizando Spring Boot no backend e HTML/CSS no frontend, com persistência de dados em MySQL. </div>
 <br/>
 <h4 align="center">
 **Tentando usar meu conhecimento após estudos complexos e sem usar IA como muleta, prefiro continuar aprendendo do que não ter merito nenhum porque a IA fez tudo, não quero ser apenas um copia e cola qualquer.**

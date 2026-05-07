@@ -28,6 +28,8 @@
 
               <input class="newb" type="submit" value="login" />
 
+             <div th:if="${erro != null and erro != ''}" th:text="${erro}" class="alert"></div>
+
               <div class="footer">
                 Do you have an account? <a href="http://localhost:8080/creat">Create account</a>
               </div>

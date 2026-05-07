@@ -28,13 +28,14 @@ public class LoginController {
     public String loginuser(User user, Model model, HttpServletResponse response){
 
      User userlogged = this.lr.findByEmailAndPassword(user.getEmail(), user.getPassword());
-     
-     if (userlogged == null){
-        model.addAttribute("erro", "Invalid User!");
-     }
-     return "redirect:/dashboard";
-    }
 
+        if (userlogged != null){
+            return "redirect:/dashboard";
+        }
+
+        model.addAttribute("erro", "Invalid User!");
+        return "login";
+     }
 
     @GetMapping("/creat")
     public String creat(){

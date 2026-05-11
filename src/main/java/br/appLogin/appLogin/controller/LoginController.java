@@ -46,11 +46,9 @@ public class LoginController {
     public String dashboard(){
         return "dashboard";
     }
+
     @PostMapping("/registerUser")
     public String registerUser(@Valid User user, BindingResult result){
-
-
-        System.out.println("ENTROU AQUI");
 
         if(result.hasErrors()){
             return "redirect:/creat";
